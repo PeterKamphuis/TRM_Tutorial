@@ -10,7 +10,9 @@ This jupyter notebook takes the student through a tilted ring fit with Rotcur wh
 Requirements
 ------------
 
-GISPY 
+GIPSY
+
 Tirific
+
 jupyter notebook
 
